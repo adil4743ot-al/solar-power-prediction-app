@@ -1,0 +1,10 @@
+Item,Value,Sensor peak hour,Open-Meteo peak hour,Peak time difference (hours)
+Raw generation rows (Plant 1),68778,,,
+Raw sensor rows (Plant 1),3182,,,
+Timestamps in only one file,26,,,
+Hourly rows after resampling,816,,,
+Hourly rows with missing values,20,,,
+Open-Meteo rows downloaded,816,,,
+Peak hour comparison 2020-05-15,,12:00,12:00,0.0
+Peak hour comparison 2020-05-16,,12:00,12:00,0.0
+Peak hour comparison 2020-05-17,,11:00,12:00,1.0
